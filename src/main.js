@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route, HashRouter } from 'react-router-dom';
+import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import './App.css';
 import './index.css';
 import home from './home';
@@ -14,7 +14,7 @@ import newsletter from './newsletter';
 
 const Main = () => {
   return (
-    <HashRouter basename="/">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch id="router"> {/* The Switch decides which component to show based on the current URL.*/}
       <Route exact path='/' component={home}></Route>
       <Route exact path='/booking' component={booking}></Route>
@@ -27,7 +27,7 @@ const Main = () => {
       <Route exact path='/newsletter' component={newsletter}></Route>
       
     </Switch>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
