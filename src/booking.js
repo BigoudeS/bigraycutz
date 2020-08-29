@@ -22,12 +22,12 @@ function booking() {
   </h3>
 
   <p>
-      <a href="/"><small><i><mark style={{backgroundColor:"black",color:"white"}}>**To get prices, make sure you check which region you're in at the home page</mark></i></small></a><br></br>
+      <a href="/#/"><small><i><mark style={{backgroundColor:"black",color:"white"}}>**To get prices, make sure you check which region you're in at the home page</mark></i></small></a><br></br>
 You can book an appointment on my <a href="https://www.facebook.com/pages/category/Barber-Shop/Big-Ray-Cutz-103155061092391/">Facebook page</a>, it's easy to use and I will resopnd to you as soon as
 I can
   </p>
 
-  <a href="/form"><Button>If you don't have a facebook account, <strong>Click Here</strong></Button></a>
+  <a href="/#/form"><Button>If you don't have a facebook account, <strong>Click Here</strong></Button></a>
 
 
   </Jumbotron>

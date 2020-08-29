@@ -6,7 +6,7 @@ function form() {
     return (
       <div id="form">
 
-<a href="/" id="BigRayCutzForm"><h2>Big Ray Cutz</h2></a>
+<a href="/#/" id="BigRayCutzForm"><h2>Big Ray Cutz</h2></a>
     <p><strong>Booking Form</strong></p>
     <hr style={{backgroundColor:"black", width:"95%"}} ></hr>
     

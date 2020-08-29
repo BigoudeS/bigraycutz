@@ -26,7 +26,7 @@ function aboutme() {
   </Card.Body>
 <hr style={{ width: '80%', marginLeft:"auto", marginRight:"auto", backgroundColor:"white"}}></hr>
   <Card.Body>
-  <a href="./portfolio"><Card.Text style={{color:"rgb(0, 140, 255)"}}>click here to see my work</Card.Text></a>
+  <a href="/#/portfolio"><Card.Text style={{color:"rgb(0, 140, 255)"}}>click here to see my work</Card.Text></a>
 <br></br>
     <Card.Link>
     <a href="https://www.facebook.com/pages/category/Barber-Shop/Big-Ray-Cutz-103155061092391/" class="socials" style={{paddingRight:3,paddingLeft:3}}><FacebookIcon style={{fontSize:40}}/></a>

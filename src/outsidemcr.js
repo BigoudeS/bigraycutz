@@ -21,7 +21,7 @@ function outsidemcr() {
 </Jumbotron>
 <br>
 </br>
-<i><a href="/newsletter"><mark style={{backgroundColor:"black",color:"white"}}>
+<i><a href="/#/newsletter"><mark style={{backgroundColor:"black",color:"white"}}>
 Please click here to read the newsletter
       <br></br>
 before booking any appointments
