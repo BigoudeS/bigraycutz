@@ -12,7 +12,7 @@ function App() {
   <img src={logo} alt="BigRayCutz" style={{height:"auto",width:"95%"}}/>
   <hr style={{backgroundColor:"white"}} ></hr>
   <h4>
-      <a href="/aboutme" style={{color:"white"}}>Manchester's Mobile Barber</a>
+      <a href="/bigraycutz/#/aboutme" style={{color:"white"}}>Manchester's Mobile Barber</a>
   </h4>
 
   </Jumbotron>
@@ -31,7 +31,7 @@ function App() {
 
   </Card></a>
   <br></br>
-  <a href="./grtrmcr">
+  <a href="./bigrayutz/#/grtrmcr">
     <Card>
 
     <Card.Body className="locationCard" style={{backgroundColor:"black",color:"white"}}>
@@ -41,7 +41,7 @@ function App() {
     </Card.Body>
   </Card></a>
 <br></br>
-  <a href="./outsidemcr">
+  <a href="./bigraycutz/#/outsidemcr">
     <Card >
     <Card.Body className="locationCard" style={{backgroundColor:"black",color:"white"}}>
       <Card.Title className="hptitle">Outside Greater Manchester & Other Cities</Card.Title>
@@ -51,7 +51,7 @@ function App() {
   </CardDeck>
     </div> 
   
-    <i><a href="/newsletter"><mark style={{backgroundColor:"black",color:"white"}}>
+    <i><a href="/bigraycutz/#/newsletter"><mark style={{backgroundColor:"black",color:"white"}}>
 Please click here to read the newsletter
       <br></br>
 before booking any appointments
