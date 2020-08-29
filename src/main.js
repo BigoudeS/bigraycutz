@@ -1,5 +1,5 @@
-import React from 'react';
-import { Switch, Route, BrowserRouter } from 'react-router-dom';
+import React, { Component } from 'react';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
 import './index.css';
 import home from './home';
@@ -12,9 +12,10 @@ import form from "./form";
 import aboutme from './aboutme';
 import newsletter from './newsletter';
 
-const Main = () => {
+class Main extends Component {
+render() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename='/'>
     <Switch id="router"> {/* The Switch decides which component to show based on the current URL.*/}
       <Route exact path='/' component={home}></Route>
       <Route exact path='/booking' component={booking}></Route>
@@ -27,8 +28,9 @@ const Main = () => {
       <Route exact path='/newsletter' component={newsletter}></Route>
       
     </Switch>
-    </BrowserRouter>
+    </HashRouter>
   );
+}
 }
 
 export default Main;
