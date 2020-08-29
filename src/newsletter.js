@@ -35,7 +35,7 @@ function newsletter() {
       
 <br></br>
 
-<i><a href="/#/booking"><mark style={{backgroundColor:"black",color:"white"}}>
+<i><a href="./#/booking"><mark style={{backgroundColor:"black",color:"white"}}>
     Know what you want? 
       <br></br>
     Click here to book an appointment now
