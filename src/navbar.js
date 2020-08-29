@@ -5,7 +5,7 @@ import logo from "./IMG/brandLogo.jpg";
 
 function Navigationbar() {
 function hp(){
-  window.location.href='./#/';
+  window.location.href='./';
 }
     return (
 
@@ -18,7 +18,7 @@ function hp(){
 
     <Nav>
 <Nav.Item>
-  <Nav.Link href="./#/" style={{fontSize:22.5}}>Regions (with Prices)</Nav.Link>
+  <Nav.Link href="./" style={{fontSize:22.5}}>Regions (with Prices)</Nav.Link>
 </Nav.Item>
 <Nav.Item>
     <Nav.Link href="./#/portfolio" style={{fontSize:22.5}}>Portfolio (My Work)</Nav.Link>

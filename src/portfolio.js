@@ -20,7 +20,7 @@ function portfolio() {
         
 <h1 style={{color:"white"}}>Portfolio</h1>
 <i><h2 style={{color:"white"}}>My Work</h2></i>
-<div id="mywork">
+<div id="mywork" style={{overflow:"hidden"}}>
 <Carousel id="Carousel">
 <Carousel.Item className="container">
 <img src={one} alt="Trimmed off the top, with skin fade" className="portfolioimg"/>
