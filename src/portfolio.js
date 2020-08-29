@@ -21,7 +21,7 @@ function portfolio() {
 <h1 style={{color:"white"}}>Portfolio</h1>
 <i><h2 style={{color:"white"}}>My Work</h2></i>
 <div id="mywork" style={{overflow:"hidden"}}>
-<Carousel id="Carousel">
+<Carousel id="Carousel" style={{overflow:"hidden"}}>
 <Carousel.Item className="container">
 <img src={one} alt="Trimmed off the top, with skin fade" className="portfolioimg"/>
 <Carousel.Caption><p className="caption" style={{color:"white"}}>Trim off the top, with skin fade</p></Carousel.Caption>
@@ -70,16 +70,12 @@ function portfolio() {
 </Carousel>
 
 </div>
-<br>
-</br>
-<br>
-</br>
+<br/>
+
 <mark style={{backgroundColor:"white"}}>Check out the socials to see more of my work & reviews</mark>
-<br>
-</br>
+<br/>
 <ArrowDownwardIcon style={{color:"white"}}/><ArrowDownwardIcon style={{color:"white"}}/>
-<br>
-</br>
+<br/>
       </div>
 
   );
