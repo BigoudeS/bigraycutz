@@ -17,7 +17,7 @@ function mcr() {
     Hours from 11am-8pm <br></br>
 Haircuit & Beard Shape Up - £15 <br></br>
 Shape Up & Beard Shape Up - £10 <br></br>
-Kids from the age 16 and under - £7 <br></br>
+Kids from the age 16 and under - £10 <br></br>
 
 <hr></hr>
 
