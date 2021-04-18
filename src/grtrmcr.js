@@ -9,7 +9,7 @@ function grtrmcr() {
       <div className="App">
           <Card className="text-center">
           <Card.Header>These are areas outside of Manchester, Salford & Tameside but within Greater Manchester like Bolton, Bury, Stockport, etc.</Card.Header>
-          <Card.Header style={{fontSize:"small"}}>* Early & Late Bookings will require a £10 deposit. If you give 6 hours notice before you're appointment for cancellation, your deposit will be refunded. Fail to give notice before 6 hours beforehand, deposit will not be refunded</Card.Header>
+          <Card.Header style={{fontSize:"small"}}>* Early & Late Bookings will require a £10 deposit. If you give 6 hours notice before your appointment for cancellation, your deposit will be refunded. Fail to give notice before 6 hours beforehand, deposit will not be refunded</Card.Header>
           
   <Card.Body>
     <Card.Title><h1>Greater Manchester</h1></Card.Title>
