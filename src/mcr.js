@@ -8,7 +8,7 @@ function mcr() {
   return (
       <div className="App">
           <Card className="text-center">
-  <Card.Header>All these prices are subject to areas in Manchester, Salford & Tameside as they are in close proximity to where I live.</Card.Header>
+  <Card.Header>All these prices are subject to areas in Manchester & Salford as they are in close proximity to where I live.</Card.Header>
   <Card.Header style={{fontSize:"small"}}>* Early & Late Bookings will require a £10 deposit. If you give 6 hours notice before you're appointment for cancellation, your deposit will be refunded. Fail to give notice before 6 hours beforehand, deposit will not be refunded</Card.Header>
   <Card.Body>
     <Card.Title><h1>Manchester & Salford</h1></Card.Title>
