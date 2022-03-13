@@ -21,16 +21,10 @@ function hp(){
   <Nav.Link href="./" style={{fontSize:22.5}}>Regions (with Prices)</Nav.Link>
 </Nav.Item>
 <Nav.Item>
-    <Nav.Link href="./#/portfolio" style={{fontSize:22.5}}>Portfolio (My Work)</Nav.Link>
-</Nav.Item>
-<Nav.Item>
 < Nav.Link href="./#/booking" style={{fontSize:22.5}}>Book An Appointment</Nav.Link>
 </Nav.Item>
 <Nav.Item>
 < Nav.Link href="./#/aboutme" style={{fontSize:22.5}}>About Me</Nav.Link>
-</Nav.Item>
-<Nav.Item>
-< Nav.Link href="./#/newsletter" style={{fontSize:22.5}}>Newsletter</Nav.Link>
 </Nav.Item>
     </Nav>
   </Navbar.Collapse>

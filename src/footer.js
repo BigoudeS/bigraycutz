@@ -19,7 +19,7 @@ function Footer() {
             <a href="https://www.youtube.com/channel/UC_koENUjpy6ytX5eTIyLvIg/featured" class="socials" style={{paddingRight:3,paddingLeft:2}}><YoutubeIcon style={{fontSize:42}}/></a>
 
             <br></br>
-            <sub><i>Big Ray Cutz© 2021</i></sub>
+            <sub><i>Big Ray Cutz© 2022</i></sub>
         </div>
 
     );}
